@@ -1,0 +1,8 @@
+[package]
+name = "find_large_file"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+walkdir = "2.5"
+humansize = "2.1"
